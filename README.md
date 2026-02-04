@@ -1,5 +1,9 @@
-This repository contains the working and added files with regards to the Cloud Computing course's Milestone 2 assignment.
+# Milestone 2: Data Storage and Integration Connectors
+## Assignment Repository was forked from [here](https://github.com/MohammadYasserZaki/SOFE4630U-MS2) 
 
-- added design folder for the design related-additions
+This repository contains the working and added files with regards to the Cloud Computing course's Milestone 2 assignment, for my (Bralyn Loach-Perry) submission.
 
-#### Last modified at 5:01PM EST
+- Added design folder for the design related-additions
+- Removed generated key JSON files for security reasons
+
+#### *Last modified on February 4th 2026 at 5:57PM EST*
